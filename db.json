@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 11,
+      "title": "Ajax requests in React",
+      "body": "You can use Fetch or Axios to perform Ajax requests. In React, you usually fire these requests from componentDidMount and/or componentDidUpdate."
+    },
+    {
+      "id": 12,
+      "title": "React Lifecycle",
+      "body": "The three main lifecycle methods are componentDidMount, componentWillUnmount and componentDidUpdate."
+    },
+    {
+      "id": 13,
+      "title": "React Conf 2019",
+      "body": "If you have 9 hours to spend, here's the full video of Day 1: https://www.youtube.com/watch?v=RCiccdQObpo."
+    },
+    {
+      "id": 14,
+      "title": "React Router v5",
+      "body": "The React Router team announced the release of version 5.0 in March 2019. Then version 5.1 with hooks was released in September 2019. Here's the blog announcement: https://reacttraining.com/blog/react-router-v5-1/"
+    }
+  ]
+}
